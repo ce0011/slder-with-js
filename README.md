@@ -1,1 +1,1 @@
-# slder-with-js
+# slider-with-js
